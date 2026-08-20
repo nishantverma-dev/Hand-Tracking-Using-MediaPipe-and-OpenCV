@@ -88,13 +88,3 @@ Q: What happens if the webcam is not available? A: The script prints an error an
 Result
 The hand tracking system is implemented using MediaPipe and OpenCV to detect and display hand landmarks in real time.
 
-Pushing to GitHub
-Initialize and push this project to your GitHub repository (replace the remote URL with your own):
-
-git init
-git add .
-git commit -m "Add hand tracking experiment using MediaPipe and OpenCV"
-git branch -M main
-# Replace <your-repo-url> with your GitHub repository URL
-git remote add origin <your-repo-url>
-git push -u origin main
