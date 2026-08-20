@@ -74,7 +74,8 @@ Draw Landmarks and Connections
    ↓
 Hand Landmarks
 
-**## MediaPipe Hand Landmarker detects 21 landmarks for each hand.**
+---
+## MediaPipe Hand Landmarker detects 21 landmarks for each hand 
 
 Landmark ID	Landmark
 0	Wrist
