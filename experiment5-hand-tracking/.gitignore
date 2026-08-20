@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.vscode/
+.idea/
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# system files
+Thumbs.db
+desktop.ini
+
+# do not ignore project files
+!exp5.py
+!README.md
+!requirements.txt
+!screenshots/
